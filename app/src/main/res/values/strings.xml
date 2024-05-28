@@ -28,7 +28,7 @@
       {version} - Build version
       {device} - Device name
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/{version}/API/updater/{device}.json</string>
+    <string name="updater_server_url" translatable="false">https://ota.lifehacker101.net/ota/pixelos/{device}</string>
     <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/{version}/API/updater/changelogs/{device}.md</string>
     <string name="certified_prop_json_url" translatable="false">https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/{version}/API/updater/CertifiedProps/certified_build_props.json</string>
 
